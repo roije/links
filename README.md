@@ -2,6 +2,7 @@
 
 - [A bottom-up, animated guide to HTTP load balancing](https://samwho.dev/load-balancing/)
     - Twitter: https://twitter.com/samwhoo
+    - Github: https://github.com/samwho
 
 
 - [740 hand-picked tools & resources for web designers & developers](https://toolkit.addy.codes/)
