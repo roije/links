@@ -5,6 +5,7 @@
     - Twitter: https://twitter.com/samwhoo
     - Github: https://github.com/samwho
 
+## Sites
 
 - [740 hand-picked tools & resources for web designers & developers](https://toolkit.addy.codes/)
     - Twitter: https://twitter.com/addy_codes
