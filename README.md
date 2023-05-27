@@ -15,5 +15,5 @@
 
 ## Blogs
 - [Quastor](https://blog.quastor.org/)
-- [[cs.fyi](https://cs.fyi/)
+- [cs.fyi](https://cs.fyi/)
 
