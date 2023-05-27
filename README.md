@@ -1,5 +1,6 @@
 # links
 
+## Articles 
 - [A bottom-up, animated guide to HTTP load balancing](https://samwho.dev/load-balancing/)
     - Twitter: https://twitter.com/samwhoo
     - Github: https://github.com/samwho
@@ -12,5 +13,7 @@
     - Twitter: https://twitter.com/kamrify
     - Github: https://github.com/kamranahmedse
 
+## Blogs
 - [Quastor](https://blog.quastor.org/)
+- [[cs.fyi](https://cs.fyi/)
 
