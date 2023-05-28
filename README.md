@@ -20,5 +20,7 @@
 
 ## Blogs
 - [Quastor](https://blog.quastor.org/)
+    - Summaries of Big Tech Engineering Blog Posts on Frontend, Backend, Machine Learning, Data Engineering and more.
 - [cs.fyi](https://cs.fyi/)
+    - Frontend, Backend, DevOps and everything in between.
 
