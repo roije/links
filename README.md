@@ -1,9 +1,12 @@
 # links
 
-## Articles 
+## Blog posts and articles 
 - [A bottom-up, animated guide to HTTP load balancing](https://samwho.dev/load-balancing/)
     - Twitter: https://twitter.com/samwhoo
     - Github: https://github.com/samwho
+
+- [Consistency Patterns in Distributed Systems]https://cs.fyi/guide/consistency-patterns-week-strong-eventual
+
 
 ## Sites
 
