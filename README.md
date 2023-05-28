@@ -5,7 +5,8 @@
     - Twitter: https://twitter.com/samwhoo
     - Github: https://github.com/samwho
 
-- [Consistency Patterns in Distributed Systems]https://cs.fyi/guide/consistency-patterns-week-strong-eventual
+
+- [Consistency Patterns in Distributed Systems](https://cs.fyi/guide/consistency-patterns-week-strong-eventual)
 
 
 ## Sites
