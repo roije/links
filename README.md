@@ -19,6 +19,9 @@
     - Twitter: https://twitter.com/kamrify
     - Github: https://github.com/kamranahmedse
 
+- [systemdesign.one](https://systemdesign.one/
+    - system design interview preparation stuff
+
 ## Blogs
 - [Quastor](https://blog.quastor.org/)
     - Summaries of Big Tech Engineering Blog Posts on Frontend, Backend, Machine Learning, Data Engineering and more.
