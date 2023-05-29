@@ -19,7 +19,7 @@
     - Twitter: https://twitter.com/kamrify
     - Github: https://github.com/kamranahmedse
 
-- [systemdesign.one](https://systemdesign.one/
+- [systemdesign.one](https://systemdesign.one/)
     - system design interview preparation stuff
 
 ## Blogs
