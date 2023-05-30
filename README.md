@@ -9,6 +9,9 @@
 - [Consistency Patterns in Distributed Systems](https://cs.fyi/guide/consistency-patterns-week-strong-eventual)
 - [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 
+- [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/?utm_source=blog.quastor.org&utm_medium=referral&utm_campaign=how-khan-academy-rewrote-their-backend)
+    - Github: https://github.com/jspolsky
+
 
 ## Sites
 
