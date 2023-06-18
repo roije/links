@@ -11,6 +11,8 @@
 
 - [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/?utm_source=blog.quastor.org&utm_medium=referral&utm_campaign=how-khan-academy-rewrote-their-backend)
     - Github: https://github.com/jspolsky
+ 
+- [Communication in a microservice architecture](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
 
 
 ## Sites
